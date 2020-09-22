@@ -1,0 +1,6 @@
+run the following cmd for db:--
+
+from file_name import db
+db.create_all()
+
+this would create the db that you defined in your program.
